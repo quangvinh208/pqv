@@ -1,0 +1,2 @@
+# pqv
+sudo apt update
